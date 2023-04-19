@@ -51,15 +51,6 @@ Quando o usuário clicar no botão "Criar nova conta" localizado na página de "
 
 ![Wireframe Cadastro](img/Cadastro.png)
 
-#### Cadastro de estabelecimento 
-Quando o usuário clicar no botão "Estabelecimento" localizado na página de cadastro, será redirecionado para a página "Cadastro Estabelecimento". A página apresenta uma versão diferente da homepage, possui a logo e o nome do projeto na parte superior um banner com o título da página, na parte central do site a dois formulários para o empresário preencher seus dados cadastrais e de sua empresa, podendo realizar o upload de uma foto de perfil e do estabelecimento e enviar as informações por meio de um botão. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
-
-![Wireframe Cadastro](img/Cadastro_Estabelecimento.png)
-
-### Tela Estabelecimento
-Quando o usuário donos de estabelecimentos finalizarem o cadastro ou realizarem login, será redirecionado para a página "Tela Estabelecimento". A página o apresenta o cabeçalho igual o da homepage, e o card do topo da página possui a logo e uma foto de um pet, na parte central do site a um modelo de como o anúncio é apresentado aos outros usuários, podendo editar informações e fotos, no final da página apresenta os depoimentos referente a sua hospedagem. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
-
-![Wireframe Cadastro](img/Tela_estabelecimento.png)
 
 
 
