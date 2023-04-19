@@ -33,7 +33,7 @@ Ao clicar no botão "Transporte seu Pet" contido na homepage, o usuário será d
 
 ### Depoimentos
 
-Quando o usuário clicar no botão "Veja mais +", localizado no card "Depoimentos" da Homepage, será redirecionado para a página "Destinos em MG". A página "Destinos em MG" apresenta um filtro de busca onde o usuário pode pesquisar as opções de estabelecimento por cidade de MG. Ao clicar em algum estabelecimento/ponto turístico, será redirecionado para a página "Tela do Estabelecimento" na qual haverá um formulário onde o usuário poderá deixar seu depoimento sobre algum estabelecimento ou ponto turístico estando logado (o nome e a foto já estarão carregados) ou de forma anônima, conforme RF-007 e RF-012. Ao lado do formulário, aparecerão depoimentos de outros ou do próprio usuário, com a opção para curtir e comentar, conforme RF-013.
+Quando o usuário clicar no botão "Veja mais +", localizado no card "Depoimentos" da Homepage, será redirecionado para a página "Destinos em MG". A página "Destinos em MG" apresenta um filtro de busca onde o usuário pode pesquisar por cidade e/ou tipo de estabelecimento. Ao clicar em algum estabelecimento/ponto turístico, será redirecionado para a página do estabelecimento na qual haverá um formulário onde o usuário poderá deixar seu depoimento sobre o local pesquisado estando logado (o nome e a foto já estarão carregados) ou de forma anônima, conforme RF-007 e RF-012. Ao lado do formulário, aparecerão depoimentos de outros ou do próprio usuário, com a opção para curtir e comentar, conforme RF-013.
 
 ![Wireframe Depoimentos](img/Depoimentos.png)
 
