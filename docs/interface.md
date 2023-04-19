@@ -12,7 +12,11 @@ O projeto foi organizado em 5 páginas para facilitar a navegação e obtenção
 
 ### Homepage
 
-A homepage apresenta todas as seções do site (sobre nós, regras de viagem, estabelecimentos, pontos turísticos, login e cadastro) que podem ser acessadas através dos botões localizados no menu navegação e os depoimentos cuja página pode ser acessada através do botão "Veja mais +" localizado no card "Depoimentos" no final da página. No menu navegação, haverá uma opção de acessibilidade, conforme RNF-002. No card superior, logo abaixo do menu navegação, haverá um resumo das informações do projeto e um botão "Veja mais +" que redirecionará o usuário para a página "Sobre nós" e a logo do projeto. Mais abaixo terá um card com algumas opções de estabelecimentos. O layout da homepage determinará o layout das demais seções do site. No rodapé da homepage, encontram-se os direitos de uso do site, bem como a instituição de apoio do projeto.
+<<<<<<< Updated upstream
+A homepage apresenta todas as seções do site (sobre nós, regras de viagem, estabelecimentos, pontos turísticos, login e cadastro) que podem ser acessadas através dos botões localizados no menu navegação e o card de "Depoimentos" no final da página que quando o usuário clicar na opção de "Veja mais+" será redirecionado para a página "Destinos em MG". No menu navegação, haverá uma opção de acessibilidade, conforme RNF-002. No card superior, logo abaixo do menu navegação, haverá um resumo das informações do projeto e um botão "Veja mais +" que redirecionará o usuário para a página "Sobre nós" e a logo do projeto. Mais abaixo terá um card com algumas opções de estabelecimentos. O layout da homepage determinará o layout das demais seções do site. No rodapé da homepage, encontram-se os direitos de uso do site, bem como a instituição de apoio do projeto.
+=======
+A homepage apresenta todas as seções do site ("sobre nós", "transporte seu pet", "destinos em MG", "entre") que podem ser acessadas através dos botões localizados no menu navegação e os depoimentos cuja página pode ser acessada através do botão "Veja mais +" localizado no card "Depoimentos" no final da página que fará o redirecionamento para a página "Destinos em MG". No menu navegação, haverá uma opção de acessibilidade, conforme RNF-002. No card superior, logo abaixo do menu navegação, haverá um resumo das informações do projeto e um botão "Veja mais +" que redirecionará o usuário para a página "Sobre nós" e a logo do projeto. Mais abaixo terá um card com algumas opções de estabelecimentos. O botão "entre" redireciona o usuário para a página de login e, caso ele ainda não possua cadastro, poderá selecionar a opção de "criar nova conta" e ser redirecionado para a página "Cadastro". O layout da homepage determinará o layout das demais seções do site. No rodapé da homepage, encontram-se os direitos de uso do site, bem como a instituição de apoio do projeto.
+>>>>>>> Stashed changes
 
 ![Wireframe Homepage](img/Homepage.png)
 
@@ -33,9 +37,9 @@ Ao clicar no botão "Transporte seu Pet" contido na homepage, o usuário será d
 
 ### Cadastro de Depoimentos
 
-Quando o usuário clicar no botão "Veja mais +", localizado no card "Depoimentos" da Homepage, será redirecionado para a página "Depoimentos". A página apresenta o mesmo menu navegação da Homepage e o card no topo da página possui a logo e uma foto de um pet. Mais abaixo, haverá um formulário onde o usuário poderá deixar seu depoimento sobre algum estabelecimento ou ponto turístico estando logado (o nome e a foto já estarão carregados) ou de forma anônima, conforme RF-007 e RF-012. Ao lado do formulário, aparecerão depoimentos de outros ou do próprio usuário, com a opção para curtir e comentar, conforme RF-013.
+Quando o usuário clicar no botão "Veja mais +", localizado no card "Depoimentos" da Homepage, será redirecionado para a página "Destinos em MG". A página possuirá um filtro de pesquisa na qual permitirá o usuário buscar por cidade e tipo de estabelecimento . Quando o usuário clicar em determinado estabelecimento, será redirecionado para a tela do estabelecimento. Na tela do estabelecimento, haverá um formulário onde o usuário poderá deixar seu depoimento sobre o estabelecimento ou ponto turístico estando logado (o nome e a foto já estarão carregados) ou de forma anônima, conforme RF-007 e RF-012. Ao lado do formulário, aparecerão depoimentos de outros ou do próprio usuário, com a opção para curtir e comentar, conforme RF-013.
 
-![Wireframe Depoimentos](img/Depoimentos.png)
+![Wireframe Depoimentos](img/Estabelecimento.png)
 
 #### Cadastro de estabelecimento 
 Quando o usuário clicar no botão "Cadastrar Estabelecimento" localizado na página Destinos em MG, será redirecionado para a página "Cadastro Estabelecimento". A página apresenta uma versão diferente da homepage, possui a logo e o nome do projeto na parte superior um banner com o título da página, na parte central a um formulários para o usuario preencher os dados cadastrais da empresa, podendo realizar o upload de uma fotos do estabelecimento e enviar as informações por meio de um botão. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
@@ -47,6 +51,28 @@ Quando o usuário clicar no botão "Cadastrar Estabelecimento" localizado na pá
 
 ### Cadastro
 
-Quando o usuário clicar no botão "Cadastro" localizado no menu navegação da Homepage, será redirecionado para a página "Cadastro". A página apresenta o mesmo menu navegação da homepage e o card do topo da página possui a logo e uma foto de um pet. Mais abaixo, haverá dois botões para selecionar se o cadastro será do usuário ou do estabelecimento. Ao clicar no botão "usuário", será aberto um formulário onde o usuário conseguirá preencher seus dados cadastrais, fazer o upload de uma foto e enviar as informações através de um botão. Caso seja clicado no botão "estabelecimento", será redirecionado para a página de "Cadastro de estabelecimento". No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
+<<<<<<< Updated upstream
+Quando o usuário clicar no botão "Entre" localizado no menu navegação da Homepage, será redirecionado para a página "Login". Caso o usuário não possua ainda cadastro, selecionará o botão "Criar nova conta" e será redirecionado para a página "Cadastro". Na página "Cadastro", ele deverá selecionar se é viajante ou estabelecimento. Ao clicar no botão "viajante", será aberto um formulário onde o usuário conseguirá preencher seus dados cadastrais, fazer o upload de uma foto e enviar as informações através de um botão ou cancelar a operação. Caso seja clicado no botão "estabelecimento", será redirecionado para a página de "Cadastro de estabelecimento". No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
 
 ![Wireframe Cadastro](img/Cadastro.png)
+=======
+Quando o usuário clicar no botão "Criar nova conta" localizado na página de "Login", será redirecionado para a página "Cadastro". A página apresenta o mesmo menu navegação da homepage e o card do topo da página possui a logo e uma foto de um pet. Mais abaixo, haverá dois botões para selecionar se o cadastro será do viajante ou do estabelecimento. Ao clicar no botão "viajante", será aberto um formulário onde o usuário conseguirá preencher seus dados cadastrais, fazer o upload de uma foto e enviar as informações através de um botão. Caso seja clicado no botão "estabelecimento", será redirecionado para a página de "Cadastro de estabelecimento". No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
+
+![Wireframe Cadastro](img/Cadastro.png)
+
+#### Cadastro de estabelecimento 
+Quando o usuário clicar no botão "Estabelecimento" localizado na página de cadastro, será redirecionado para a página "Cadastro Estabelecimento". A página apresenta uma versão diferente da homepage, possui a logo e o nome do projeto na parte superior um banner com o título da página, na parte central do site a dois formulários para o empresário preencher seus dados cadastrais e de sua empresa, podendo realizar o upload de uma foto de perfil e do estabelecimento e enviar as informações por meio de um botão. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
+
+![Wireframe Cadastro](img/Cadastro_Estabelecimento.png)
+
+### Tela Estabelecimento
+Quando o usuário donos de estabelecimentos finalizarem o cadastro ou realizarem login, será redirecionado para a página "Tela Estabelecimento". A página o apresenta o cabeçalho igual o da homepage, e o card do topo da página possui a logo e uma foto de um pet, na parte central do site a um modelo de como o anúncio é apresentado aos outros usuários, podendo editar informações e fotos, no final da página apresenta os depoimentos referente a sua hospedagem. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
+
+![Wireframe Cadastro](img/Tela_estabelecimento.png)
+
+### Depoimentos
+
+Quando o usuário clicar no botão "Veja mais +", localizado no card "Depoimentos" da Homepage, será redirecionado para a página "Destinos em MG". A página "Destinos em MG" apresenta um filtro de busca onde o usuário pode pesquisar as opções de estabelecimento por cidade de MG. Ao clicar em algum estabelecimento/ponto turístico, será redirecionado para a página "Tela do Estabelecimento" na qual haverá um formulário onde o usuário poderá deixar seu depoimento sobre algum estabelecimento ou ponto turístico estando logado (o nome e a foto já estarão carregados) ou de forma anônima, conforme RF-007 e RF-012. Ao lado do formulário, aparecerão depoimentos de outros ou do próprio usuário, com a opção para curtir e comentar, conforme RF-013.
+
+![Wireframe Depoimentos](img/Depoimentos.png)
+>>>>>>> Stashed changes
