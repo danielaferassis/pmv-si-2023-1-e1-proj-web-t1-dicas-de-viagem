@@ -5,7 +5,7 @@ O projeto foi organizado em 8 páginas para facilitar a navegação e obtenção
 
 ## User Flow
 
-![Exemplo de UserFlow](img/User-Flow.jpg)
+![Exemplo de UserFlow](img/User-Flow.png)
 
 
 ## Wireframes
