@@ -22,7 +22,7 @@ Após clicar no botão "Veja mais +" na homepage, o usuário será direcionado p
 
 <img width="1836" alt="Sobre nós" src="https://user-images.githubusercontent.com/116188910/231491393-ab9d2b74-faeb-4754-9dae-0332f426ed30.png">
 
-### Transpoporte seu Pet
+### Transporte seu Pet
 
 Ao clicar no botão "Transporte seu Pet" contido na homepage, o usuário será direcionado para a página "Transporte seu Pet" na qual o menu navegação é o mesmo da homepage e o card do topo da página possui a logo do projeto. Abaixo, se encontram a opção de filtrar por transporte as regras de viagem de acordo com a necessidade do usuário. As opção cadastradas são avião, carro e ônibus, de acordo com as RF-001, RF-002 e RF-003. Cada seção pode ser indentificada pelo nome e foto que acompanham a sua especificidade de meio de transporte. No rodapé da página, estão os direitos de uso do site e da instituição de apoio do projeto.
 
