@@ -31,11 +31,11 @@ Ao clicar no botão "Transporte seu Pet" contido na homepage, o usuário será d
 ### Destinos em MG
 
 
-### Cadastro de Depoimentos
+### Depoimentos
 
-Quando o usuário clicar no botão "Veja mais +", localizado no card "Depoimentos" da Homepage, será redirecionado para a página "Destinos em MG". A página possuirá um filtro de pesquisa na qual permitirá o usuário buscar por cidade e tipo de estabelecimento . Quando o usuário clicar em determinado estabelecimento, será redirecionado para a tela do estabelecimento. Na tela do estabelecimento, haverá um formulário onde o usuário poderá deixar seu depoimento sobre o estabelecimento ou ponto turístico estando logado (o nome e a foto já estarão carregados) ou de forma anônima, conforme RF-007 e RF-012. Ao lado do formulário, aparecerão depoimentos de outros ou do próprio usuário, com a opção para curtir e comentar, conforme RF-013.
+Quando o usuário clicar no botão "Veja mais +", localizado no card "Depoimentos" da Homepage, será redirecionado para a página "Destinos em MG". A página "Destinos em MG" apresenta um filtro de busca onde o usuário pode pesquisar as opções de estabelecimento por cidade de MG. Ao clicar em algum estabelecimento/ponto turístico, será redirecionado para a página "Tela do Estabelecimento" na qual haverá um formulário onde o usuário poderá deixar seu depoimento sobre algum estabelecimento ou ponto turístico estando logado (o nome e a foto já estarão carregados) ou de forma anônima, conforme RF-007 e RF-012. Ao lado do formulário, aparecerão depoimentos de outros ou do próprio usuário, com a opção para curtir e comentar, conforme RF-013.
 
-![Wireframe Depoimentos](img/Estabelecimento.png)
+![Wireframe Depoimentos](img/Depoimentos.png)
 
 #### Cadastro de estabelecimento 
 Quando o usuário clicar no botão "Cadastrar Estabelecimento" localizado na página Destinos em MG, será redirecionado para a página "Cadastro Estabelecimento". A página apresenta uma versão diferente da homepage, possui a logo e o nome do projeto na parte superior um banner com o título da página, na parte central a um formulários para o usuario preencher os dados cadastrais da empresa, podendo realizar o upload de uma fotos do estabelecimento e enviar as informações por meio de um botão. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
@@ -61,9 +61,5 @@ Quando o usuário donos de estabelecimentos finalizarem o cadastro ou realizarem
 
 ![Wireframe Cadastro](img/Tela_estabelecimento.png)
 
-### Depoimentos
 
-Quando o usuário clicar no botão "Veja mais +", localizado no card "Depoimentos" da Homepage, será redirecionado para a página "Destinos em MG". A página "Destinos em MG" apresenta um filtro de busca onde o usuário pode pesquisar as opções de estabelecimento por cidade de MG. Ao clicar em algum estabelecimento/ponto turístico, será redirecionado para a página "Tela do Estabelecimento" na qual haverá um formulário onde o usuário poderá deixar seu depoimento sobre algum estabelecimento ou ponto turístico estando logado (o nome e a foto já estarão carregados) ou de forma anônima, conforme RF-007 e RF-012. Ao lado do formulário, aparecerão depoimentos de outros ou do próprio usuário, com a opção para curtir e comentar, conforme RF-013.
-
-![Wireframe Depoimentos](img/Depoimentos.png)
 
