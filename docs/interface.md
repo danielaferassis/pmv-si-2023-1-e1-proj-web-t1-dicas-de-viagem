@@ -44,6 +44,9 @@ Quando o usuário clicar no botão "Cadastrar Estabelecimento" localizado na pá
 
 ### Login
 
+Esta tela apresenta campos para o usuário inserir seus dados e realizar login, caso seja novo, criar uma conta. 
+
+![Wireframe Login](img/tela-login.png)
 
 ### Cadastro
 
