@@ -11,8 +11,11 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
+A paleta de cores do projeto é composta das seguintes cores:
 
+![COLOR PALETTE (1)](https://user-images.githubusercontent.com/116188910/236004081-c197b787-c1d4-450d-8051-196e3966c5b1.png)
+
+Sendo as cores #00977B2, #4ECDC4 e #15EEA3, as cores presentes na logo e as cores que dão personalidade e estão em maior destaque no site. Já as cores #FFFFFF e #000000 são as cores utilizadas para dar contraste e, em especial, a segunda será utlizada no corpo do texto do site.
 
 ## Tipografia
 
