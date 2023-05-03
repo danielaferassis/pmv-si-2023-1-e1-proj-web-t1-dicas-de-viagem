@@ -10,12 +10,15 @@
 }
 
 .navbar{
-    margin-left: -8%;
+    width: 600px;
+    height: 110px;
+    margin: auto;
+    overflow: auto;
 }
 
 .navbar ul li
 {
-  
+    align-self: center;
     list-style: none;
     margin-top: -50px;
 }
@@ -121,5 +124,13 @@ ul, ol {
         background-color: blueviolet;
     }
 }
+
+p {
+    padding: auto;
+    margin-left: 5%;
+}
+
+
+
 
 /**Adaptação*/
