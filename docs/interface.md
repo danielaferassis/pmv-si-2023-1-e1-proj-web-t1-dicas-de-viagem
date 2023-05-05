@@ -20,16 +20,19 @@ A homepage apresenta todas as seções do site ("sobre nós", "transporte seu pe
 
 Após clicar no botão "Veja mais +" na homepage, o usuário será direcionado para a página "Sobre nós". O menu navegação da  página é o mesmo da homepage e o card do topo da página possui a logo do projeto. Abaixo, se encontram fotos pessoais dos criadores com ou sem os seus pet que estarão acompanhadas por um breve texto contendo a apresentação do projeto, a sua motivação e seus objetivos. No rodapé da página, estão os direitos de uso do site e da instituição de apoio do projeto.
 
-<img width="1836" alt="Sobre nós" src="https://user-images.githubusercontent.com/116188910/231491393-ab9d2b74-faeb-4754-9dae-0332f426ed30.png">
+![Wireframe Sobre Nós](img/Sobre_nos.png)
 
 ### Transporte seu Pet
 
 Ao clicar no botão "Transporte seu Pet" contido na homepage, o usuário será direcionado para a página "Transporte seu Pet" na qual o menu navegação é o mesmo da homepage e o card do topo da página possui a logo do projeto. Abaixo, se encontram a opção de filtrar por transporte as regras de viagem de acordo com a necessidade do usuário. As opção cadastradas são avião, carro e ônibus, de acordo com as RF-001, RF-002 e RF-003. Cada seção pode ser indentificada pelo nome e foto que acompanham a sua especificidade de meio de transporte. No rodapé da página, estão os direitos de uso do site e da instituição de apoio do projeto.
 
-<img width="1836" alt="Sobre nós - Dani" src="https://user-images.githubusercontent.com/116188910/233174822-15953667-fe22-4007-955d-246e5702899e.png">
+![Wireframe Transporte Seu Pet](img/Transporte_seu_pet.png)
 
 ### Destinos em MG
 
+Ao clicar no botão "Destinos em MG" contido na homepage, o usuário será redirecionado para a página "Destinos em MG" na qual o menu navegação é o mesmo da homepage e o card do topo da página contém a logo do projeto. Abaixo se encontra uma opção de busca pelos destinos localizados em MG que são pet friendly, cujos filtros de pesquisa serão por tipo de estabelecimento ou cidade ou tipo de estabelecimento em determinada cidade. Mais abaixo aparecerão os destinos mais buscados e os estabelecimentos mais buscados. Também haverá um card com os últimos comentários feitos pelos usuários. No rodapé da página, estão os direitos de uso do site e da instituição de apoio do projeto.
+
+![Wireframe Destinos em MG](img/Destinos.png)
 
 ### Depoimentos
 
@@ -44,7 +47,7 @@ Quando o usuário clicar no botão "Cadastrar Estabelecimento" localizado na pá
 
 ### Login
 
-Esta tela apresenta campos para o usuário inserir seus dados e realizar login, caso seja novo, criar uma conta. 
+Quando o usuário clicar no botão "Entre" localizado no menu navegação da homepage, será redirecionado para a página Login que possui duas opções: ou a opção de inserir os dados para fazer o login para usuários que já possuem cadastro, ou a opção de criar nova conta para usuários que ainda não possuem cadastro no site. No rodapé da página, constam os direitos de uso e a instituição de apoio do projeto.
 
 ![Wireframe Login](img/tela-login.png)
 
