@@ -1,19 +1,23 @@
 # Template padrão do site
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+<div align="center">
 
-Explique as guias de estilo utilizadas no seu projeto.
+![video](img/video.mp4)
 
+</div>  
+
+## Logo
+![Logo](img/Logo-Principal.png) 
 ## Design
 
 ## Header
 <div align="center">
 
 ### Cabeçalho Desktop
-![Wireframe Destinos em MG](img/cabecalho-desktop.png)  
+![Cabeçalho](img/cabecalho-desktop.png)  
 
 ### Cabeçalho Desktop
-![Wireframe Destinos em MG](img/cabecalho-mobile.png)
+![Cabeçalho](img/cabecalho-mobile.png)
 
 </div>  
 
@@ -159,7 +163,7 @@ Explique as guias de estilo utilizadas no seu projeto.
 ## Main
 
 ## Carrossel (Desktop e Mobile)
-![Wireframe Destinos em MG](img/carrosel.png) 
+![Carrossel](img/carrosel.png) 
 
   
 
@@ -342,11 +346,11 @@ Explique as guias de estilo utilizadas no seu projeto.
 <div align="center">
 
 ### Cards Estabelecimentos Desktop
-![Wireframe Destinos em MG](img/Estabelecimento-cards.png)  
-![Wireframe Destinos em MG](img/Estabelecimento-card.png)  
+![Cards Estabelecimentos](img/Estabelecimento-cards.png)  
+![Cards Estabelecimentos](img/Estabelecimento-card.png)  
 
 ### Cards Estabelecimentos Mobile
-![Wireframe Destinos em MG](img/Estabelecimento-card-responsive.png)
+![Cards Estabelecimentos](img/Estabelecimento-card-responsive.png)
 
 </div>
 
@@ -542,11 +546,11 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Cards Depoimentos 
 
-### Cards Estabelecimentos Desktop
-![Wireframe Destinos em MG](img/Depoimentos-cards.png)   
+### Cards Depoimentos Desktop
+![Cards Depoimentos](img/Depoimentos-cards.png)   
 
-### Cards Estabelecimentos Mobile
-![Wireframe Destinos em MG](img/Depoimentos-cards-responsive.png)
+### Cards Depoimentos Mobile
+![Cards Depoimentos](img/Depoimentos-cards-responsive.png)
 
 </div>
 
@@ -646,11 +650,11 @@ a:hover{
 
 ## Footer 
 
-### Cards Estabelecimentos Desktop
-![Wireframe Destinos em MG](img/footer.png)   
+### Footer Desktop
+![Footer](img/footer.png)   
 
-### Cards Estabelecimentos Mobile
-![Wireframe Destinos em MG](img/footer-responsive.png)
+### Footer Mobile
+![Footer](img/footer-responsive.png)
 
 </div>
 
@@ -775,22 +779,13 @@ Sendo as cores #00977B2, #4ECDC4 e #15EEA3, as cores presentes na logo e as core
 ## Tipografia
 
 ### Título
-![Wireframe Destinos em MG](img/Tipografia-Titulo.png)
+![Titulo](img/Tipografia-Titulo.png)
 ### Corpo
-![Wireframe Destinos em MG](img/Tipografia-corpo.png)
+![Corpo](img/Tipografia-corpo.png)
 ### Destaque
-![Wireframe Destinos em MG](img/Tipografia-destaque.png)
+![Destaque](img/Tipografia-destaque.png)
 
 
 ## Iconografia
-![Wireframe Destinos em MG](img/Iconografia.png)
+![Iconografia](img/Iconografia.png)
 
-
-
-> **Links Úteis**:
->
-> -  [Como criar um guia de estilo de design da Web](https://edrodrigues.com.br/blog/como-criar-um-guia-de-estilo-de-design-da-web/#)
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
