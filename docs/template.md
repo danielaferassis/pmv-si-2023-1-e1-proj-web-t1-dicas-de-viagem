@@ -786,10 +786,13 @@ Sendo as cores #00977B2, #4ECDC4 e #15EEA3, as cores presentes na logo e as core
 ## Tipografia
 
 ### Título
+#### Monstserrat extra-bold
 ![Titulo](img/Tipografia-Titulo.png)
 ### Corpo
+#### Merriweather
 ![Corpo](img/Tipografia-corpo.png)
 ### Destaque
+#### Alegrya bold
 ![Destaque](img/Tipografia-destaque.png)
 
 
