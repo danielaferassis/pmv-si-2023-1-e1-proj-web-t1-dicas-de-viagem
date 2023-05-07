@@ -8,9 +8,10 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Header
 ### Cabeçalho Desktop
-    ![imagem Navbar Desktop](img/cabecalho-desktop.png)
+![Wireframe Destinos em MG](img/cabecalho-desktop.png)   
 ### Cabeçalho Desktop
-    ![imagem Navbar Desktop](img/cabecalho-mobile.png)
+![Wireframe Destinos em MG](img/cabecalho-mobile.png)  
+    
 
 
 
