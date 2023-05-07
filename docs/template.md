@@ -7,7 +7,12 @@
 </div>  
 
 ## Logo
+<div align="center">
+
 ![Logo](img/Logo-Principal.png) 
+
+</div> 
+
 ## Design
 
 ## Header
