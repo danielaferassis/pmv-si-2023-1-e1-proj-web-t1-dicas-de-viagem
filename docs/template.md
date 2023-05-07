@@ -7,13 +7,81 @@ Explique as guias de estilo utilizadas no seu projeto.
 ## Design
 
 ## Header
-### Cabeçalho Desktop
-![Wireframe Destinos em MG](img/cabecalho-desktop.png)   
-### Cabeçalho Desktop
-![Wireframe Destinos em MG](img/cabecalho-mobile.png)  
-    
+<div align="center">
 
+### Cabeçalho Desktop
+![Wireframe Destinos em MG](img/cabecalho-desktop.png)  
 
+### Cabeçalho Desktop
+![Wireframe Destinos em MG](img/cabecalho-mobile.png)
+
+</div>  
+
+<details>
+  <summary>Header HTML</summary>
+ ```html
+<header class="header">
+    <!--Logo -->
+    <div class="logo">
+        <img src="imagens/logo.png">
+    </div>
+    <!--Logo -->
+    <!--Cabeçalho-->
+    <div class="navigation-bar">
+        <ul class="nav">
+              <li>
+                <a href="#">Sobre Nós</a>
+              </li>
+              <li>
+                <a href="#">Transporte seu Pet</a>
+              </li>
+              <li>
+                <a href="index.html"><i class="fa-solid fa-house"></i></a>
+              </li>
+              <li>
+                <a href="#">Destinos em MG</a>
+              </li>
+              <li>
+                <a href="#">Entre</a>
+              </li>
+        </ul>
+    </div>
+    <!--Cabeçalho-->
+     <!--Responsive Navbars-->
+     <div class="responsive-navbar">
+      <div class="collapse" id="navbarToggleExternalContent">
+        <div class="p-4" style="background-color: #8cd4c8;">
+          <h5 class="text-white h4">Meu Pet Viaja</h5>
+          <ul class="nav-responsive">
+            <li>
+              <a href="index.html">Home</a>
+            </li>
+            <li>
+              <a href="#">Sobre Nós</a>
+            </li>
+            <li>
+              <a href="#">Transporte seu Pet</a>
+            </li>
+            <li>
+              <a href="#">Destinos em MG</a>
+            </li>
+            <li>
+              <a href="#">Entre</a>
+            </li>
+      </ul>
+        </div>
+      </div>
+      <nav class="navbar-responsive navbar-dark bg-dark">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+      </nav>
+     </div>
+</header>
+ ```
+</details>
 
 ## Cores
 
