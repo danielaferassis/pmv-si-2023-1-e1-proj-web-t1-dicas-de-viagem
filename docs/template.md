@@ -82,7 +82,76 @@ Explique as guias de estilo utilizadas no seu projeto.
 </header>
  ```
 </details>
+<details>
+  <summary>Header CSS</summary>
 
+  ```css
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.logo img{
+
+    max-width: 350px;
+    min-width: 250px;
+   
+}
+
+.navbar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navigation-bar{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+
+.navbar ul li
+{
+    align-self: center;
+    list-style: none;
+    margin-top: -50px;
+
+}
+
+.nav {
+    width: 750px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-right: 55px;
+}
+
+.nav li a{
+    border-radius: 25px;
+    transition: 0.3s;
+    color: black;
+}
+
+.nav li a:hover{
+   padding-left: 25px;
+   padding-right: 25px;
+    color: white;
+    background-color: cadetblue !important;
+    cursor: pointer;
+    border-radius: 25px;
+    transition: 0.3s;
+}
+
+.responsive-navbar{
+  display: none;
+}
+/**Navbar*/
+```
+</details>
+--------------------------------------------------------------------------------------------------------------------------------------------------
 ## Cores
 
 A paleta de cores do projeto é composta das seguintes cores:
