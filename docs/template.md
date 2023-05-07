@@ -161,6 +161,8 @@ Explique as guias de estilo utilizadas no seu projeto.
 ## Carrossel (Desktop e Mobile)
 ![Wireframe Destinos em MG](img/carrosel.png) 
 
+  
+
 <details>
   <summary>Main - Carrossel HTML</summary>
 
@@ -335,8 +337,18 @@ Explique as guias de estilo utilizadas no seu projeto.
   ```
 </details>
 
-## Cards Estabelecimentos (Desktop e Mobile)
-![Wireframe Destinos em MG](img/carrosel.png) 
+## Cards Estabelecimentos 
+
+<div align="center">
+
+### Cards Estabelecimentos Desktop
+![Wireframe Destinos em MG](img/Estabelecimento-cards.png)  
+![Wireframe Destinos em MG](img/Estabelecimento-card.png)  
+
+### Cards Estabelecimentos Mobile
+![Wireframe Destinos em MG](img/Estabelecimento-card-responsive.png)
+
+</div>
 
 <details>
   <summary>Main - Cards Estabelecimentos HTML</summary>
@@ -528,8 +540,15 @@ Explique as guias de estilo utilizadas no seu projeto.
 </details>
 
 
-## Cards Depoimentos (Desktop e Mobile)
-![Wireframe Destinos em MG](img/carrosel.png) 
+## Cards Depoimentos 
+
+### Cards Estabelecimentos Desktop
+![Wireframe Destinos em MG](img/Depoimentos-cards.png)   
+
+### Cards Estabelecimentos Mobile
+![Wireframe Destinos em MG](img/Depoimentos-cards-responsive.png)
+
+</div>
 
 <details>
   <summary>Main - Cards Depoimentos HTML</summary>
@@ -625,8 +644,15 @@ a:hover{
   ```
 </details>
 
-## Footer (Desktop e Mobile)
-![Wireframe Destinos em MG](img/carrosel.png) 
+## Footer 
+
+### Cards Estabelecimentos Desktop
+![Wireframe Destinos em MG](img/footer.png)   
+
+### Cards Estabelecimentos Mobile
+![Wireframe Destinos em MG](img/footer-responsive.png)
+
+</div>
 
 <details>
   <summary>Footer HTML</summary>
@@ -748,15 +774,17 @@ Sendo as cores #00977B2, #4ECDC4 e #15EEA3, as cores presentes na logo e as core
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+### Título
+![Wireframe Destinos em MG](img/Tipografia-Titulo.png)
+### Corpo
+![Wireframe Destinos em MG](img/Tipografia-corpo.png)
+### Destaque
+![Wireframe Destinos em MG](img/Tipografia-destaque.png)
 
 
 ## Iconografia
+![Wireframe Destinos em MG](img/Iconografia.png)
 
-Defina os ícones que serão utilizados e suas respectivas funções.
-
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
 
 
 > **Links Úteis**:
