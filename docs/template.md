@@ -19,6 +19,7 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 <details>
   <summary>Header HTML</summary>
+
  ```html
 <header class="header">
     <!--Logo -->
@@ -80,8 +81,10 @@ Explique as guias de estilo utilizadas no seu projeto.
       </nav>
      </div>
 </header>
+
  ```
 </details>
+
 <details>
   <summary>Header CSS</summary>
 
