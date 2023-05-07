@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![video](img/video.mp4)
+https://vscode.dev/github/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-dicas-de-viagem/blob/main/docs/img/video.mp4
 
 </div>  
 
